@@ -1,0 +1,7 @@
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaEntidad\bin\Debug\CapaEntidad.exe.config
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaEntidad\bin\Debug\CapaEntidad.exe
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaEntidad\obj\Debug\CapaEntidad.exe
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaEntidad\obj\Debug\CapaEntidad.pdb
