@@ -21,3 +21,7 @@ C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\Cap
 C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaPresentacion\obj\Debug\CapaPresentacion.Registrarse.resources
 C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarVisita.resources
 C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaPresentacion\obj\Debug\CapaPresentacion.Loggin.resources
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaPresentacion\obj\Debug\CapaPresentacion.Listado.resources
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaPresentacion\obj\Debug\CapaPresentacion.RegistroAula.resources
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\P2\ProyectoFinalP2\CapaPresentacion\obj\Debug\CapaPresentacion.RegistroEdificios.resources

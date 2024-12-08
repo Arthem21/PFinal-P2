@@ -32,18 +32,18 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Loggin));
             this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
             this.Login = new Bunifu.Framework.UI.BunifuGradientPanel();
+            this.UsuarioLogin = new WindowsFormsControlLibrary1.BunifuCustomTextbox();
             this.ContraseñaLogin = new WindowsFormsControlLibrary1.BunifuCustomTextbox();
+            this.IniciarSesionBtn = new Bunifu.Framework.UI.BunifuImageButton();
             this.RegistrarseBtn = new Bunifu.Framework.UI.BunifuImageButton();
             this.bunifuCustomLabel1 = new Bunifu.Framework.UI.BunifuCustomLabel();
             this.bunifuCustomLabel3 = new Bunifu.Framework.UI.BunifuCustomLabel();
             this.bunifuCustomLabel2 = new Bunifu.Framework.UI.BunifuCustomLabel();
             this.performanceCounter1 = new System.Diagnostics.PerformanceCounter();
-            this.UsuarioLogin = new WindowsFormsControlLibrary1.BunifuCustomTextbox();
-            this.IniciarSesionBtn = new Bunifu.Framework.UI.BunifuImageButton();
             this.Login.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.IniciarSesionBtn)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.RegistrarseBtn)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.performanceCounter1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.IniciarSesionBtn)).BeginInit();
             this.SuspendLayout();
             // 
             // bunifuElipse1
@@ -73,6 +73,15 @@
             this.Login.Size = new System.Drawing.Size(800, 450);
             this.Login.TabIndex = 4;
             // 
+            // UsuarioLogin
+            // 
+            this.UsuarioLogin.BorderColor = System.Drawing.Color.SeaGreen;
+            this.UsuarioLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UsuarioLogin.Location = new System.Drawing.Point(297, 185);
+            this.UsuarioLogin.Name = "UsuarioLogin";
+            this.UsuarioLogin.Size = new System.Drawing.Size(251, 31);
+            this.UsuarioLogin.TabIndex = 1;
+            // 
             // ContraseñaLogin
             // 
             this.ContraseñaLogin.BorderColor = System.Drawing.Color.SeaGreen;
@@ -81,6 +90,20 @@
             this.ContraseñaLogin.Name = "ContraseñaLogin";
             this.ContraseñaLogin.Size = new System.Drawing.Size(251, 31);
             this.ContraseñaLogin.TabIndex = 1;
+            // 
+            // IniciarSesionBtn
+            // 
+            this.IniciarSesionBtn.BackColor = System.Drawing.Color.MediumSpringGreen;
+            this.IniciarSesionBtn.Image = ((System.Drawing.Image)(resources.GetObject("IniciarSesionBtn.Image")));
+            this.IniciarSesionBtn.ImageActive = null;
+            this.IniciarSesionBtn.Location = new System.Drawing.Point(428, 303);
+            this.IniciarSesionBtn.Name = "IniciarSesionBtn";
+            this.IniciarSesionBtn.Size = new System.Drawing.Size(120, 40);
+            this.IniciarSesionBtn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.IniciarSesionBtn.TabIndex = 2;
+            this.IniciarSesionBtn.TabStop = false;
+            this.IniciarSesionBtn.Zoom = 10;
+            this.IniciarSesionBtn.Click += new System.EventHandler(this.RegistrarseBtn_Click);
             // 
             // RegistrarseBtn
             // 
@@ -113,11 +136,11 @@
             this.bunifuCustomLabel3.AutoSize = true;
             this.bunifuCustomLabel3.BackColor = System.Drawing.Color.Transparent;
             this.bunifuCustomLabel3.Font = new System.Drawing.Font("Segoe UI Symbol", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuCustomLabel3.Location = new System.Drawing.Point(275, 60);
+            this.bunifuCustomLabel3.Location = new System.Drawing.Point(237, 59);
             this.bunifuCustomLabel3.Name = "bunifuCustomLabel3";
-            this.bunifuCustomLabel3.Size = new System.Drawing.Size(273, 65);
+            this.bunifuCustomLabel3.Size = new System.Drawing.Size(369, 65);
             this.bunifuCustomLabel3.TabIndex = 3;
-            this.bunifuCustomLabel3.Text = "Bienvenido";
+            this.bunifuCustomLabel3.Text = "Inicio de sesion";
             this.bunifuCustomLabel3.Click += new System.EventHandler(this.bunifuCustomLabel1_Click);
             // 
             // bunifuCustomLabel2
@@ -138,43 +161,20 @@
             this.performanceCounter1.CounterName = "% Processor Time";
             this.performanceCounter1.InstanceName = "_Total";
             // 
-            // UsuarioLogin
-            // 
-            this.UsuarioLogin.BorderColor = System.Drawing.Color.SeaGreen;
-            this.UsuarioLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UsuarioLogin.Location = new System.Drawing.Point(297, 185);
-            this.UsuarioLogin.Name = "UsuarioLogin";
-            this.UsuarioLogin.Size = new System.Drawing.Size(251, 31);
-            this.UsuarioLogin.TabIndex = 1;
-            // 
-            // IniciarSesionBtn
-            // 
-            this.IniciarSesionBtn.BackColor = System.Drawing.Color.MediumSpringGreen;
-            this.IniciarSesionBtn.Image = ((System.Drawing.Image)(resources.GetObject("IniciarSesionBtn.Image")));
-            this.IniciarSesionBtn.ImageActive = null;
-            this.IniciarSesionBtn.Location = new System.Drawing.Point(428, 303);
-            this.IniciarSesionBtn.Name = "IniciarSesionBtn";
-            this.IniciarSesionBtn.Size = new System.Drawing.Size(120, 40);
-            this.IniciarSesionBtn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.IniciarSesionBtn.TabIndex = 2;
-            this.IniciarSesionBtn.TabStop = false;
-            this.IniciarSesionBtn.Zoom = 10;
-            this.IniciarSesionBtn.Click += new System.EventHandler(this.RegistrarseBtn_Click);
-            // 
-            // Form1
+            // Loggin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.Login);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Form1";
+            this.Name = "Loggin";
             this.Text = "Form1";
             this.Login.ResumeLayout(false);
             this.Login.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.IniciarSesionBtn)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.RegistrarseBtn)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.performanceCounter1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.IniciarSesionBtn)).EndInit();
             this.ResumeLayout(false);
 
         }

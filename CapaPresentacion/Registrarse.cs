@@ -17,6 +17,8 @@ namespace CapaPresentacion
             InitializeComponent();
         }
 
+        private Loggin login= Loggin.loggin;
+
         private void bunifuCustomLabel3_Click(object sender, EventArgs e)
         {
 
@@ -24,11 +26,12 @@ namespace CapaPresentacion
 
         private void bunifuImageButton2_Click(object sender, EventArgs e)
         {
-            Environment.Exit(0);
+            Application.Exit();
         }
 
         private void bunifuImageButton1_Click(object sender, EventArgs e)
         {
+            login.Visible = true;
             Close();
         }
     }

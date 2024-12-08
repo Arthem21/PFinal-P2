@@ -17,11 +17,11 @@ namespace CapaPresentacion
             InitializeComponent();
         }
 
+        private Inicio inicio = Inicio.inicio;
+
         private void RegistrarVisita_Load(object sender, EventArgs e)
         {
-           Loggin loggin = new Loggin();
-
-            //loggin.ShowDialog();
+           
         }
 
         private void bunifuGradientPanel1_Paint(object sender, PaintEventArgs e)
@@ -47,6 +47,32 @@ namespace CapaPresentacion
         private void bunifuCustomLabel8_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void bunifuImageButton2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuCustomTextbox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void UsuarioLogin_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Cerrar_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void VolverBtn_Click(object sender, EventArgs e)
+        {
+            inicio.Visible = true;
+            Close();
         }
     }
 }

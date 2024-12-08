@@ -12,6 +12,30 @@ namespace CapaPresentacion
 {
     public partial class Loggin : Form
     {
+
+        private static Loggin _loggin;
+
+        public static Loggin loggin
+        {
+            get
+            {
+                if (_loggin == null)
+                {
+                    _loggin = new Loggin();
+                }
+                return _loggin;
+            }
+
+            set
+            {
+                if (_loggin == null)
+                {
+                    _loggin = value;
+                }
+            }
+        }
+
+
         public Loggin()
         {
             InitializeComponent();
@@ -30,6 +54,8 @@ namespace CapaPresentacion
         private void RegistrarseBtn_Click(object sender, EventArgs e)
         {
             Registrarse registrarse = new Registrarse();
+
+            this.Visible = false;
             
             registrarse.Visible = true;
 

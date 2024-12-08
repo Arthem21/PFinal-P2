@@ -50,6 +50,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Listado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listado.Designer.cs">
+      <DependentUpon>Listado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroAula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroAula.Designer.cs">
+      <DependentUpon>RegistroAula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroEdificios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroEdificios.Designer.cs">
+      <DependentUpon>RegistroEdificios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
     <Compile Include="Loggin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +94,18 @@
     <Compile Include="RegistrarVisita.Designer.cs">
       <DependentUpon>RegistrarVisita.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Listado.resx">
+      <DependentUpon>Listado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroAula.resx">
+      <DependentUpon>RegistroAula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroEdificios.resx">
+      <DependentUpon>RegistroEdificios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Loggin.resx">
       <DependentUpon>Loggin.cs</DependentUpon>
     </EmbeddedResource>
