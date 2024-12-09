@@ -90,6 +90,7 @@
             this.ContraseñaLogin.Name = "ContraseñaLogin";
             this.ContraseñaLogin.Size = new System.Drawing.Size(251, 31);
             this.ContraseñaLogin.TabIndex = 1;
+            this.ContraseñaLogin.UseSystemPasswordChar = true;
             // 
             // IniciarSesionBtn
             // 
@@ -103,7 +104,7 @@
             this.IniciarSesionBtn.TabIndex = 2;
             this.IniciarSesionBtn.TabStop = false;
             this.IniciarSesionBtn.Zoom = 10;
-            this.IniciarSesionBtn.Click += new System.EventHandler(this.RegistrarseBtn_Click);
+            this.IniciarSesionBtn.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // RegistrarseBtn
             // 

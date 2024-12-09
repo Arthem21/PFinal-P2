@@ -132,7 +132,7 @@
             this.RegistrarseBtn.TabIndex = 11;
             this.RegistrarseBtn.TabStop = false;
             this.RegistrarseBtn.Zoom = 10;
-            this.RegistrarseBtn.Click += new System.EventHandler(this.bunifuImageButton2_Click);
+            this.RegistrarseBtn.Click += new System.EventHandler(this.bunifuImageButton1_Click1);
             // 
             // AdminRbtn
             // 
@@ -143,7 +143,6 @@
             this.AdminRbtn.Name = "AdminRbtn";
             this.AdminRbtn.Size = new System.Drawing.Size(162, 29);
             this.AdminRbtn.TabIndex = 10;
-            this.AdminRbtn.TabStop = true;
             this.AdminRbtn.Text = "Administrador";
             this.AdminRbtn.UseVisualStyleBackColor = false;
             // 
@@ -151,6 +150,7 @@
             // 
             this.GeneralRbtn.AutoSize = true;
             this.GeneralRbtn.BackColor = System.Drawing.Color.Transparent;
+            this.GeneralRbtn.Checked = true;
             this.GeneralRbtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.GeneralRbtn.Location = new System.Drawing.Point(395, 230);
             this.GeneralRbtn.Name = "GeneralRbtn";

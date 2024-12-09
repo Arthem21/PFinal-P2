@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\registroedificios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\registroedificios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\registroedificios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\registroedificios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\registrarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\registrarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\loggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\loggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,28 +23,28 @@
       "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capapresentacion\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capapresentacion\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DD8FA973-404C-465E-ADFF-57FA11F1F7C9}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capaentidad\\e_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8FA973-404C-465E-ADFF-57FA11F1F7C9}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\e_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capapresentacion\\registrarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\loggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\loggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\registrarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\registrarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\registrarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\registrarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\registrarvisita.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\registrarvisita.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\registroaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,64 +55,24 @@
       "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\registroaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\registroedificios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\registroedificios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBB21CFE-4997-4854-AECB-685C81E6EAB2}|CapaDatos\\CapaDatos.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capadatos\\d_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB21CFE-4997-4854-AECB-685C81E6EAB2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capapresentacion\\loggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\loggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\registroedificios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\registroedificios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capapresentacion\\loggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\loggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capapresentacion\\registroedificios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\registroedificios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91D4E929-ACDA-4861-9EE7-2181F0613380}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capanegocio\\n_aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D4E929-ACDA-4861-9EE7-2181F0613380}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD8FA973-404C-465E-ADFF-57FA11F1F7C9}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capaentidad\\e_aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD8FA973-404C-465E-ADFF-57FA11F1F7C9}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\e_aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capapresentacion\\loggin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B25AC74-D3A4-454D-BE69-FB55AC08E126}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\loggin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD8FA973-404C-465E-ADFF-57FA11F1F7C9}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capaentidad\\e_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD8FA973-404C-465E-ADFF-57FA11F1F7C9}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\e_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91D4E929-ACDA-4861-9EE7-2181F0613380}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capanegocio\\n_visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D4E929-ACDA-4861-9EE7-2181F0613380}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91D4E929-ACDA-4861-9EE7-2181F0613380}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capanegocio\\n_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D4E929-ACDA-4861-9EE7-2181F0613380}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91D4E929-ACDA-4861-9EE7-2181F0613380}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capanegocio\\n_edificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D4E929-ACDA-4861-9EE7-2181F0613380}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_edificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD8FA973-404C-465E-ADFF-57FA11F1F7C9}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capaentidad\\e_edificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD8FA973-404C-465E-ADFF-57FA11F1F7C9}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\p2\\proyectofinalp2\\capaentidad\\e_edificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD8FA973-404C-465E-ADFF-57FA11F1F7C9}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\e_edificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD8FA973-404C-465E-ADFF-57FA11F1F7C9}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capaentidad\\e_visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD8FA973-404C-465E-ADFF-57FA11F1F7C9}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\e_visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBB21CFE-4997-4854-AECB-685C81E6EAB2}|CapaDatos\\CapaDatos.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\capadatos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FBB21CFE-4997-4854-AECB-685C81E6EAB2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,344 +90,229 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Listado.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Listado.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Listado.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Listado.cs [Design]",
-              "RelativeToolTip": "CapaPresentacion\\Listado.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T08:19:35.963Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Listado.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Listado.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Listado.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Listado.cs",
-              "RelativeToolTip": "CapaPresentacion\\Listado.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAD4vyIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T08:20:14.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Inicio.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Inicio.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Inicio.cs [Design]",
-              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T03:56:16.643Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Inicio.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Inicio.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
               "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Inicio.cs",
               "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAjwGUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAYwFUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T06:21:18.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegistroEdificios.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroEdificios.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\RegistroEdificios.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroEdificios.cs [Design]",
-              "RelativeToolTip": "CapaPresentacion\\RegistroEdificios.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:01:29.002Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegistroEdificios.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroEdificios.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\RegistroEdificios.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroEdificios.cs",
-              "RelativeToolTip": "CapaPresentacion\\RegistroEdificios.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAlwGAAAACdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:01:32.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Registrarse.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Registrarse.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Registrarse.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Registrarse.cs",
-              "RelativeToolTip": "CapaPresentacion\\Registrarse.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAD4vxwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T23:47:15.689Z",
+              "WhenOpened": "2024-12-09T03:45:14.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Registrarse.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Registrarse.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Registrarse.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Registrarse.cs [Design]",
-              "RelativeToolTip": "CapaPresentacion\\Registrarse.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T23:44:44.856Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegistrarVisita.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistrarVisita.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\RegistrarVisita.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistrarVisita.cs",
-              "RelativeToolTip": "CapaPresentacion\\RegistrarVisita.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAD4v0QAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T01:45:13.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RegistrarVisita.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistrarVisita.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\RegistrarVisita.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistrarVisita.cs [Design]",
-              "RelativeToolTip": "CapaPresentacion\\RegistrarVisita.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T01:17:52.993Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegistroAula.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroAula.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\RegistroAula.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroAula.cs",
-              "RelativeToolTip": "CapaPresentacion\\RegistroAula.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAD4vyYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:48:54.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RegistroAula.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroAula.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\RegistroAula.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroAula.cs [Design]",
-              "RelativeToolTip": "CapaPresentacion\\RegistroAula.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:48:25.646Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RegistroEdificios.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroEdificios.Designer.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\RegistroEdificios.Designer.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroEdificios.Designer.cs",
-              "RelativeToolTip": "CapaPresentacion\\RegistroEdificios.Designer.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T08:51:09.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "D_Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaDatos\\D_Conexion.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\D_Conexion.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaDatos\\D_Conexion.cs",
-              "RelativeToolTip": "CapaDatos\\D_Conexion.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAIwJoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:58:18.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "Loggin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Loggin.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Loggin.cs",
               "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Loggin.cs [Design]",
               "RelativeToolTip": "CapaPresentacion\\Loggin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T20:25:51.029Z",
+              "WhenOpened": "2024-12-08T17:58:03.118Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "Loggin.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Loggin.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Loggin.cs",
               "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Loggin.cs",
               "RelativeToolTip": "CapaPresentacion\\Loggin.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAawDcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAApwFAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T23:03:44.608Z",
+              "WhenOpened": "2024-12-09T01:28:27.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "N_Aula.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaNegocio\\N_Aula.cs",
-              "RelativeDocumentMoniker": "CapaNegocio\\N_Aula.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaNegocio\\N_Aula.cs",
-              "RelativeToolTip": "CapaNegocio\\N_Aula.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Registrarse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Registrarse.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Registrarse.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Registrarse.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Registrarse.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T20:19:28.281Z",
+              "WhenOpened": "2024-12-08T17:57:59.977Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarVisita.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistrarVisita.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\RegistrarVisita.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistrarVisita.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\RegistrarVisita.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:47:40.262Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inicio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Inicio.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:58:08.146Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registrarse.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Registrarse.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Registrarse.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Registrarse.cs",
+              "RelativeToolTip": "CapaPresentacion\\Registrarse.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAQwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:23:18.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "E_Aula.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaEntidad\\E_Aula.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\E_Aula.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaEntidad\\E_Aula.cs",
-              "RelativeToolTip": "CapaEntidad\\E_Aula.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:58:23.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Program.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Program.cs",
-              "RelativeToolTip": "CapaPresentacion\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T23:43:31.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Loggin.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Loggin.Designer.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Loggin.Designer.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Loggin.Designer.cs",
-              "RelativeToolTip": "CapaPresentacion\\Loggin.Designer.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAAALcAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T23:49:34.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 6,
               "Title": "E_Usuario.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaEntidad\\E_Usuario.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\E_Usuario.cs",
               "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaEntidad\\E_Usuario.cs",
               "RelativeToolTip": "CapaEntidad\\E_Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:58:23.476Z"
+              "WhenOpened": "2024-12-09T02:31:22.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "N_Edificio.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaNegocio\\N_Edificio.cs",
-              "RelativeDocumentMoniker": "CapaNegocio\\N_Edificio.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaNegocio\\N_Edificio.cs",
-              "RelativeToolTip": "CapaNegocio\\N_Edificio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "RegistroAula.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroAula.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\RegistroAula.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroAula.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\RegistroAula.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T20:19:09.24Z"
+              "WhenOpened": "2024-12-08T17:44:16.35Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "N_Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaNegocio\\N_Usuario.cs",
-              "RelativeDocumentMoniker": "CapaNegocio\\N_Usuario.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaNegocio\\N_Usuario.cs",
-              "RelativeToolTip": "CapaNegocio\\N_Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Listado.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Listado.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Listado.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Listado.cs",
+              "RelativeToolTip": "CapaPresentacion\\Listado.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAgwGoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T20:18:44.876Z"
+              "WhenOpened": "2024-12-08T17:58:20.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "N_Visita.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaNegocio\\N_Visita.cs",
-              "RelativeDocumentMoniker": "CapaNegocio\\N_Visita.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaNegocio\\N_Visita.cs",
-              "RelativeToolTip": "CapaNegocio\\N_Visita.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "RegistrarVisita.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistrarVisita.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\RegistrarVisita.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistrarVisita.cs",
+              "RelativeToolTip": "CapaPresentacion\\RegistrarVisita.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAApwGQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T20:14:34.106Z"
+              "WhenOpened": "2024-12-08T22:11:06.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "E_Visita.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaEntidad\\E_Visita.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\E_Visita.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaEntidad\\E_Visita.cs",
-              "RelativeToolTip": "CapaEntidad\\E_Visita.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:58:23.529Z"
+              "WhenOpened": "2024-12-09T01:33:49.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 10,
+              "Title": "RegistrarVisita.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistrarVisita.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\RegistrarVisita.Designer.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistrarVisita.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\RegistrarVisita.Designer.cs",
+              "ViewState": "AgIAAC8CAAAAAAAAAAAwwEwCAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:42:43.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistroAula.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroAula.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\RegistroAula.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroAula.cs",
+              "RelativeToolTip": "CapaPresentacion\\RegistroAula.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowGMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:39:30.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Listado.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Listado.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Listado.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\Listado.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Listado.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:58:04.284Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistroEdificios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroEdificios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\RegistroEdificios.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroEdificios.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\RegistroEdificios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:32:43.386Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegistroEdificios.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroEdificios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\RegistroEdificios.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaPresentacion\\RegistroEdificios.cs",
+              "RelativeToolTip": "CapaPresentacion\\RegistroEdificios.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAMwEMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:32:50.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "E_Edificio.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaEntidad\\E_Edificio.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\E_Edificio.cs",
               "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaEntidad\\E_Edificio.cs",
               "RelativeToolTip": "CapaEntidad\\E_Edificio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:58:23.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaDatos\\App.config",
-              "RelativeDocumentMoniker": "CapaDatos\\App.config",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\ProyectoFinalP2\\CapaDatos\\App.config",
-              "RelativeToolTip": "CapaDatos\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-07T19:58:12.686Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:39:07.037Z",
               "EditorCaption": ""
             }
           ]

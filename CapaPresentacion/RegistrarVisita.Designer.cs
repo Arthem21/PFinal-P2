@@ -49,7 +49,6 @@
             this.HoraEnTb = new System.Windows.Forms.DateTimePicker();
             this.NombreTb = new WindowsFormsControlLibrary1.BunifuCustomTextbox();
             this.ApellidoTb = new WindowsFormsControlLibrary1.BunifuCustomTextbox();
-            this.CorreoTb = new WindowsFormsControlLibrary1.BunifuCustomTextbox();
             this.bunifuCustomLabel8 = new Bunifu.Framework.UI.BunifuCustomLabel();
             this.bunifuCustomLabel7 = new Bunifu.Framework.UI.BunifuCustomLabel();
             this.bunifuCustomLabel5 = new Bunifu.Framework.UI.BunifuCustomLabel();
@@ -63,6 +62,11 @@
             this.bunifuCustomLabel1 = new Bunifu.Framework.UI.BunifuCustomLabel();
             this.bunifuCustomLabel2 = new Bunifu.Framework.UI.BunifuCustomLabel();
             this.bunifuCustomLabel3 = new Bunifu.Framework.UI.BunifuCustomLabel();
+            this.CarreraTb = new WindowsFormsControlLibrary1.BunifuCustomTextbox();
+            this.bunifuCustomLabel12 = new Bunifu.Framework.UI.BunifuCustomLabel();
+            this.IDTb = new WindowsFormsControlLibrary1.BunifuCustomTextbox();
+            this.bunifuCustomLabel13 = new Bunifu.Framework.UI.BunifuCustomLabel();
+            this.CorreoTb = new System.Windows.Forms.MaskedTextBox();
             this.bunifuGradientPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.BuscarVisitasBtn)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Cerrar)).BeginInit();
@@ -85,13 +89,16 @@
             // 
             this.bunifuGradientPanel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuGradientPanel1.BackgroundImage")));
             this.bunifuGradientPanel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.bunifuGradientPanel1.Controls.Add(this.CorreoTb);
+            this.bunifuGradientPanel1.Controls.Add(this.IDTb);
+            this.bunifuGradientPanel1.Controls.Add(this.bunifuCustomLabel13);
+            this.bunifuGradientPanel1.Controls.Add(this.CarreraTb);
+            this.bunifuGradientPanel1.Controls.Add(this.bunifuCustomLabel12);
             this.bunifuGradientPanel1.Controls.Add(this.BuscarVisitasBtn);
             this.bunifuGradientPanel1.Controls.Add(this.Cerrar);
             this.bunifuGradientPanel1.Controls.Add(this.VolverBtn);
             this.bunifuGradientPanel1.Controls.Add(this.Refrescar);
-            this.bunifuGradientPanel1.Controls.Add(this.GuardarBtn);
             this.bunifuGradientPanel1.Controls.Add(this.panel1);
-            this.bunifuGradientPanel1.Controls.Add(this.BorrarBtn);
             this.bunifuGradientPanel1.Controls.Add(this.BuscarVisitasTb);
             this.bunifuGradientPanel1.Controls.Add(this.AulaCb);
             this.bunifuGradientPanel1.Controls.Add(this.EdificioCb);
@@ -99,7 +106,6 @@
             this.bunifuGradientPanel1.Controls.Add(this.HoraEnTb);
             this.bunifuGradientPanel1.Controls.Add(this.NombreTb);
             this.bunifuGradientPanel1.Controls.Add(this.ApellidoTb);
-            this.bunifuGradientPanel1.Controls.Add(this.CorreoTb);
             this.bunifuGradientPanel1.Controls.Add(this.bunifuCustomLabel8);
             this.bunifuGradientPanel1.Controls.Add(this.bunifuCustomLabel7);
             this.bunifuGradientPanel1.Controls.Add(this.bunifuCustomLabel5);
@@ -137,6 +143,7 @@
             this.BuscarVisitasBtn.TabIndex = 0;
             this.BuscarVisitasBtn.TabStop = false;
             this.BuscarVisitasBtn.Zoom = 10;
+            this.BuscarVisitasBtn.Click += new System.EventHandler(this.BuscarVisitasBtn_Click);
             // 
             // Cerrar
             // 
@@ -178,15 +185,16 @@
             this.Refrescar.TabIndex = 0;
             this.Refrescar.TabStop = false;
             this.Refrescar.Zoom = 10;
+            this.Refrescar.Click += new System.EventHandler(this.Refrescar_Click);
             // 
             // GuardarBtn
             // 
             this.GuardarBtn.BackColor = System.Drawing.Color.Transparent;
             this.GuardarBtn.Image = ((System.Drawing.Image)(resources.GetObject("GuardarBtn.Image")));
             this.GuardarBtn.ImageActive = null;
-            this.GuardarBtn.Location = new System.Drawing.Point(172, 83);
+            this.GuardarBtn.Location = new System.Drawing.Point(157, 3);
             this.GuardarBtn.Name = "GuardarBtn";
-            this.GuardarBtn.Size = new System.Drawing.Size(115, 41);
+            this.GuardarBtn.Size = new System.Drawing.Size(102, 31);
             this.GuardarBtn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.GuardarBtn.TabIndex = 0;
             this.GuardarBtn.TabStop = false;
@@ -211,10 +219,13 @@
             this.RegistrosT.Name = "RegistrosT";
             this.RegistrosT.Size = new System.Drawing.Size(463, 203);
             this.RegistrosT.TabIndex = 1;
+            this.RegistrosT.SelectionChanged += new System.EventHandler(this.Tabla_SelectionChanged);
             // 
             // panel2
             // 
             this.panel2.Controls.Add(this.Deseleccionar);
+            this.panel2.Controls.Add(this.GuardarBtn);
+            this.panel2.Controls.Add(this.BorrarBtn);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
@@ -233,19 +244,21 @@
             this.Deseleccionar.TabIndex = 0;
             this.Deseleccionar.TabStop = false;
             this.Deseleccionar.Zoom = 10;
+            this.Deseleccionar.Click += new System.EventHandler(this.Deseleccionar_Click);
             // 
             // BorrarBtn
             // 
             this.BorrarBtn.BackColor = System.Drawing.Color.Transparent;
             this.BorrarBtn.Image = ((System.Drawing.Image)(resources.GetObject("BorrarBtn.Image")));
             this.BorrarBtn.ImageActive = null;
-            this.BorrarBtn.Location = new System.Drawing.Point(17, 83);
+            this.BorrarBtn.Location = new System.Drawing.Point(2, 3);
             this.BorrarBtn.Name = "BorrarBtn";
-            this.BorrarBtn.Size = new System.Drawing.Size(111, 41);
+            this.BorrarBtn.Size = new System.Drawing.Size(98, 31);
             this.BorrarBtn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.BorrarBtn.TabIndex = 0;
             this.BorrarBtn.TabStop = false;
             this.BorrarBtn.Zoom = 10;
+            this.BorrarBtn.Click += new System.EventHandler(this.BorrarBtn_Click);
             // 
             // BuscarVisitasTb
             // 
@@ -258,25 +271,27 @@
             this.BuscarVisitasTb.Name = "BuscarVisitasTb";
             this.BuscarVisitasTb.Size = new System.Drawing.Size(320, 33);
             this.BuscarVisitasTb.TabIndex = 26;
-            this.BuscarVisitasTb.text = "Nombre...";
+            this.BuscarVisitasTb.text = "";
             // 
             // AulaCb
             // 
             this.AulaCb.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.AulaCb.FormattingEnabled = true;
-            this.AulaCb.Location = new System.Drawing.Point(113, 287);
+            this.AulaCb.Location = new System.Drawing.Point(113, 244);
             this.AulaCb.Name = "AulaCb";
             this.AulaCb.Size = new System.Drawing.Size(174, 33);
             this.AulaCb.TabIndex = 25;
+            this.AulaCb.SelectedIndexChanged += new System.EventHandler(this.AulaCb_SelectedIndexChanged_1);
             // 
             // EdificioCb
             // 
             this.EdificioCb.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.EdificioCb.FormattingEnabled = true;
-            this.EdificioCb.Location = new System.Drawing.Point(113, 250);
+            this.EdificioCb.Location = new System.Drawing.Point(113, 207);
             this.EdificioCb.Name = "EdificioCb";
             this.EdificioCb.Size = new System.Drawing.Size(174, 33);
             this.EdificioCb.TabIndex = 25;
+            this.EdificioCb.SelectedIndexChanged += new System.EventHandler(this.EdificioCb_SelectedIndexChanged);
             // 
             // HoraSaTb
             // 
@@ -301,7 +316,7 @@
             // 
             this.NombreTb.BorderColor = System.Drawing.Color.SeaGreen;
             this.NombreTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.NombreTb.Location = new System.Drawing.Point(113, 139);
+            this.NombreTb.Location = new System.Drawing.Point(113, 96);
             this.NombreTb.Name = "NombreTb";
             this.NombreTb.Size = new System.Drawing.Size(174, 31);
             this.NombreTb.TabIndex = 11;
@@ -311,21 +326,10 @@
             // 
             this.ApellidoTb.BorderColor = System.Drawing.Color.SeaGreen;
             this.ApellidoTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ApellidoTb.Location = new System.Drawing.Point(113, 176);
+            this.ApellidoTb.Location = new System.Drawing.Point(113, 133);
             this.ApellidoTb.Name = "ApellidoTb";
             this.ApellidoTb.Size = new System.Drawing.Size(174, 31);
             this.ApellidoTb.TabIndex = 13;
-            // 
-            // CorreoTb
-            // 
-            this.CorreoTb.BorderColor = System.Drawing.Color.SeaGreen;
-            this.CorreoTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CorreoTb.Location = new System.Drawing.Point(113, 213);
-            this.CorreoTb.Name = "CorreoTb";
-            this.CorreoTb.Size = new System.Drawing.Size(174, 31);
-            this.CorreoTb.TabIndex = 12;
-            this.CorreoTb.UseSystemPasswordChar = true;
-            this.CorreoTb.TextChanged += new System.EventHandler(this.UsuarioLogin_TextChanged);
             // 
             // bunifuCustomLabel8
             // 
@@ -356,7 +360,7 @@
             this.bunifuCustomLabel5.AutoSize = true;
             this.bunifuCustomLabel5.BackColor = System.Drawing.Color.Transparent;
             this.bunifuCustomLabel5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuCustomLabel5.Location = new System.Drawing.Point(15, 139);
+            this.bunifuCustomLabel5.Location = new System.Drawing.Point(15, 96);
             this.bunifuCustomLabel5.Name = "bunifuCustomLabel5";
             this.bunifuCustomLabel5.Size = new System.Drawing.Size(93, 25);
             this.bunifuCustomLabel5.TabIndex = 16;
@@ -366,7 +370,7 @@
             // 
             this.FotoTb.BorderColor = System.Drawing.Color.SeaGreen;
             this.FotoTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.FotoTb.Location = new System.Drawing.Point(113, 324);
+            this.FotoTb.Location = new System.Drawing.Point(113, 281);
             this.FotoTb.Name = "FotoTb";
             this.FotoTb.Size = new System.Drawing.Size(174, 31);
             this.FotoTb.TabIndex = 14;
@@ -408,7 +412,7 @@
             this.bunifuCustomLabel10.AutoSize = true;
             this.bunifuCustomLabel10.BackColor = System.Drawing.Color.Transparent;
             this.bunifuCustomLabel10.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuCustomLabel10.Location = new System.Drawing.Point(15, 287);
+            this.bunifuCustomLabel10.Location = new System.Drawing.Point(15, 244);
             this.bunifuCustomLabel10.Name = "bunifuCustomLabel10";
             this.bunifuCustomLabel10.Size = new System.Drawing.Size(61, 25);
             this.bunifuCustomLabel10.TabIndex = 17;
@@ -419,7 +423,7 @@
             this.bunifuCustomLabel4.AutoSize = true;
             this.bunifuCustomLabel4.BackColor = System.Drawing.Color.Transparent;
             this.bunifuCustomLabel4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuCustomLabel4.Location = new System.Drawing.Point(15, 179);
+            this.bunifuCustomLabel4.Location = new System.Drawing.Point(15, 136);
             this.bunifuCustomLabel4.Name = "bunifuCustomLabel4";
             this.bunifuCustomLabel4.Size = new System.Drawing.Size(95, 25);
             this.bunifuCustomLabel4.TabIndex = 19;
@@ -430,7 +434,7 @@
             this.bunifuCustomLabel9.AutoSize = true;
             this.bunifuCustomLabel9.BackColor = System.Drawing.Color.Transparent;
             this.bunifuCustomLabel9.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuCustomLabel9.Location = new System.Drawing.Point(15, 327);
+            this.bunifuCustomLabel9.Location = new System.Drawing.Point(15, 284);
             this.bunifuCustomLabel9.Name = "bunifuCustomLabel9";
             this.bunifuCustomLabel9.Size = new System.Drawing.Size(61, 25);
             this.bunifuCustomLabel9.TabIndex = 20;
@@ -441,7 +445,7 @@
             this.bunifuCustomLabel1.AutoSize = true;
             this.bunifuCustomLabel1.BackColor = System.Drawing.Color.Transparent;
             this.bunifuCustomLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuCustomLabel1.Location = new System.Drawing.Point(12, 213);
+            this.bunifuCustomLabel1.Location = new System.Drawing.Point(12, 170);
             this.bunifuCustomLabel1.Name = "bunifuCustomLabel1";
             this.bunifuCustomLabel1.Size = new System.Drawing.Size(83, 25);
             this.bunifuCustomLabel1.TabIndex = 17;
@@ -452,7 +456,7 @@
             this.bunifuCustomLabel2.AutoSize = true;
             this.bunifuCustomLabel2.BackColor = System.Drawing.Color.Transparent;
             this.bunifuCustomLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuCustomLabel2.Location = new System.Drawing.Point(12, 253);
+            this.bunifuCustomLabel2.Location = new System.Drawing.Point(12, 210);
             this.bunifuCustomLabel2.Name = "bunifuCustomLabel2";
             this.bunifuCustomLabel2.Size = new System.Drawing.Size(88, 25);
             this.bunifuCustomLabel2.TabIndex = 20;
@@ -469,6 +473,56 @@
             this.bunifuCustomLabel3.TabIndex = 4;
             this.bunifuCustomLabel3.Text = "Registro de Visitas";
             this.bunifuCustomLabel3.Click += new System.EventHandler(this.bunifuCustomLabel3_Click);
+            // 
+            // CarreraTb
+            // 
+            this.CarreraTb.BorderColor = System.Drawing.Color.SeaGreen;
+            this.CarreraTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CarreraTb.Location = new System.Drawing.Point(113, 318);
+            this.CarreraTb.Name = "CarreraTb";
+            this.CarreraTb.Size = new System.Drawing.Size(174, 31);
+            this.CarreraTb.TabIndex = 28;
+            // 
+            // bunifuCustomLabel12
+            // 
+            this.bunifuCustomLabel12.AutoSize = true;
+            this.bunifuCustomLabel12.BackColor = System.Drawing.Color.Transparent;
+            this.bunifuCustomLabel12.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.bunifuCustomLabel12.Location = new System.Drawing.Point(15, 321);
+            this.bunifuCustomLabel12.Name = "bunifuCustomLabel12";
+            this.bunifuCustomLabel12.Size = new System.Drawing.Size(90, 25);
+            this.bunifuCustomLabel12.TabIndex = 29;
+            this.bunifuCustomLabel12.Text = "Carrera:";
+            // 
+            // IDTb
+            // 
+            this.IDTb.BorderColor = System.Drawing.Color.SeaGreen;
+            this.IDTb.Enabled = false;
+            this.IDTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.IDTb.Location = new System.Drawing.Point(113, 60);
+            this.IDTb.Name = "IDTb";
+            this.IDTb.Size = new System.Drawing.Size(174, 31);
+            this.IDTb.TabIndex = 30;
+            // 
+            // bunifuCustomLabel13
+            // 
+            this.bunifuCustomLabel13.AutoSize = true;
+            this.bunifuCustomLabel13.BackColor = System.Drawing.Color.Transparent;
+            this.bunifuCustomLabel13.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.bunifuCustomLabel13.Location = new System.Drawing.Point(15, 60);
+            this.bunifuCustomLabel13.Name = "bunifuCustomLabel13";
+            this.bunifuCustomLabel13.Size = new System.Drawing.Size(38, 25);
+            this.bunifuCustomLabel13.TabIndex = 31;
+            this.bunifuCustomLabel13.Text = "ID:";
+            // 
+            // CorreoTb
+            // 
+            this.CorreoTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CorreoTb.Location = new System.Drawing.Point(113, 171);
+            this.CorreoTb.Mask = "???@Gmail.com";
+            this.CorreoTb.Name = "CorreoTb";
+            this.CorreoTb.Size = new System.Drawing.Size(174, 31);
+            this.CorreoTb.TabIndex = 32;
             // 
             // RegistrarVisita
             // 
@@ -503,7 +557,6 @@
         private Bunifu.Framework.UI.BunifuCustomLabel bunifuCustomLabel3;
         private WindowsFormsControlLibrary1.BunifuCustomTextbox NombreTb;
         private WindowsFormsControlLibrary1.BunifuCustomTextbox ApellidoTb;
-        private WindowsFormsControlLibrary1.BunifuCustomTextbox CorreoTb;
         private Bunifu.Framework.UI.BunifuCustomLabel bunifuCustomLabel7;
         private Bunifu.Framework.UI.BunifuCustomLabel bunifuCustomLabel5;
         private Bunifu.Framework.UI.BunifuCustomLabel bunifuCustomLabel6;
@@ -531,5 +584,10 @@
         private Bunifu.Framework.UI.BunifuImageButton Deseleccionar;
         private Bunifu.Framework.UI.BunifuImageButton BuscarVisitasBtn;
         private Bunifu.Framework.UI.BunifuImageButton VolverBtn;
+        private WindowsFormsControlLibrary1.BunifuCustomTextbox CarreraTb;
+        private Bunifu.Framework.UI.BunifuCustomLabel bunifuCustomLabel12;
+        private WindowsFormsControlLibrary1.BunifuCustomTextbox IDTb;
+        private Bunifu.Framework.UI.BunifuCustomLabel bunifuCustomLabel13;
+        private System.Windows.Forms.MaskedTextBox CorreoTb;
     }
 }

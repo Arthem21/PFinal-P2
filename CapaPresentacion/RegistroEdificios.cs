@@ -69,14 +69,14 @@ namespace CapaPresentacion
         {
             N_Edificio objNegocio = N_Edificio.Instance;
             EdificiosT.DataSource = objNegocio.ListarEdificios("");
-            //cancelarselect();
+            cancelarselect();
         }
 
         private void mostrarBusqueda(string x)
         {
             N_Edificio objNegocio = N_Edificio.Instance;
             EdificiosT.DataSource = objNegocio.ListarEdificios(x);
-            //cancelarselect();
+            cancelarselect();
         }
 
         private void Tabla_SelectionChanged(object sender, EventArgs e)
@@ -88,7 +88,7 @@ namespace CapaPresentacion
             else
             {
                 IDTb.Text = Convert.ToString(EdificiosT.CurrentRow.Cells["ID"].Value);
-                EdificiosT.Text = Convert.ToString(EdificiosT.CurrentRow.Cells["Edificio"].Value);
+                NombreTb.Text = Convert.ToString(EdificiosT.CurrentRow.Cells["Edificio"].Value);
 
                 if (!string.IsNullOrEmpty(IDTb.Text))
                 {
@@ -142,8 +142,33 @@ namespace CapaPresentacion
             }
 
             refrescar();
-            //cancelarselect();
+            cancelarselect();
         }
 
+        private void Deseleccionar_Click(object sender, EventArgs e)
+        {
+            cancelarselect();
+        }
+
+        private void cancelarselect()
+        {
+            EdificiosT.CurrentCell = null;
+            NombreTb.Clear();
+            IDTb.Clear();
+            BorrarBtn.Enabled = false;
+            BorrarBtn.Visible = false;
+            GuardarBtn.Image = Image.FromFile("C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\P2\\Multicapa\\CapaPresentacion\\imagen\\icons8-documento-50.png");
+        }
+
+
+        private void BuscarEdificiosBtn_Click(object sender, EventArgs e)
+        {
+            mostrarBusqueda(BuscarEdificiosTb.text);
+        }
+
+        private void Refrescar_Click(object sender, EventArgs e)
+        {
+            refrescar();
+        }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CapaEntidad;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,6 +14,8 @@ namespace CapaPresentacion
     public partial class Inicio : Form
     {
         private static Inicio _inicio;
+
+        
 
         public static Inicio inicio
         {
@@ -74,9 +77,19 @@ namespace CapaPresentacion
 
         private void Inicio_Load(object sender, EventArgs e)
         {
-            Loggin loggin = new Loggin();
+            E_Usuario usuario = E_Usuario.Instacia;
 
-            //loggin.ShowDialog();
+            if (usuario.Tipo == "Administrador")
+            {
+                AbrirListado.Visible = true;
+                AbrirRegistroAula.Visible = true;
+                AbrirRegistroEdificio.Visible = true;
+            }
+
+            else
+            {
+
+            }
         }
 
         private void AbrirRegistroAula_Click(object sender, EventArgs e)

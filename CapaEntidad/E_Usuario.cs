@@ -4,7 +4,7 @@ namespace CapaEntidad
 {
     public class E_Usuario
     {
-        
+        private static E_Usuario _instance;   
         private int _id;
         private string _nombre;
         private string _apellido;
@@ -12,8 +12,8 @@ namespace CapaEntidad
         private string _tipo;
         private string _usuario;
         private string _contraseña;
-        
 
+        public static E_Usuario Instacia { get { return _instance; } set { _instance = value; } }
         public int Id { get { return _id; } set { _id = value; } }
         public string Nombre { get { return _nombre; } set { _nombre = value; } }
         public string Apellido { get { return _apellido; } set { _apellido = value; } }

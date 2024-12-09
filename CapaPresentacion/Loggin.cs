@@ -1,4 +1,6 @@
-﻿using System;
+﻿using CapaEntidad;
+using CapaNegocio;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -55,11 +57,40 @@ namespace CapaPresentacion
         {
             Registrarse registrarse = new Registrarse();
 
-            this.Visible = false;
+            this.Hide();
             
-            registrarse.Visible = true;
+            registrarse.Show();
 
             
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            string usuario = UsuarioLogin.Text;
+            string contraseña = ContraseñaLogin.Text;
+
+            N_Usuario objNegocio = N_Usuario.Instance;
+            E_Usuario usuarioEncontrado = objNegocio.ListarUsuarios("").FirstOrDefault(u => u.Usuario == usuario && u.Contraseña == contraseña);
+
+            if (usuarioEncontrado != null)
+            {
+                MessageBox.Show("Inicio de sesión exitoso");
+                
+                this.Hide();
+
+                E_Usuario.Instacia = usuarioEncontrado;
+
+                Inicio Inicio = Inicio.inicio;
+                Inicio.Show();
+            }
+            else
+            {
+                MessageBox.Show("Usuario o contraseña incorrectos");
+            }
+        }
+
+
     }
 }
+
+
